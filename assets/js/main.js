@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){particlesJS.load("particles-js","/assets/js/particlesjs-config.json",function(){})},!1);
